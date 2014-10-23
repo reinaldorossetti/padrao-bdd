@@ -17,7 +17,8 @@ Para executar o projeto basta:
 - Executar o bundle.
 - Executar o cucumber colocando o diretório e o time que está trabalhando.
  
-Ex.:
+Exemplo de execução:
+	
 	# chamando com poltergeist (sem browser): 
 	bundle exec cucumber features/example/testadores/home/testadores_login.feature -p testers
 
