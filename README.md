@@ -15,7 +15,7 @@ Para executar o projeto basta
 - Instalar o PhantomJS (versão 1.9.7) na máquina.
 	* (no iOS) brew install phantomjs 
 	* (no Ubuntu) sudo apt-get install phantomjs
-	(para verificar a versão: phantomjs --version)
+		> (para verificar a versão: phantomjs --version)
 - Baixar o projeto.
 - Executar o bundle.
 - Executar o cucumber colocando o diretório/feature que está trabalhando.
